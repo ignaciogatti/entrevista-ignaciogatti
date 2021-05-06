@@ -5,3 +5,6 @@
 
 #data
 *.csv
+
+# word embedding folder
+/word_embedding_pre_trained/*
